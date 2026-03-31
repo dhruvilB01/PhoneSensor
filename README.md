@@ -82,4 +82,4 @@ app/src/main/java/com/h2x/sensor/
 
 ## Companion App
 
-Use [gps_receiver](https://github.com/dhruvil/gps_receiver) (Python) to receive and display the sensor stream on your laptop.
+Use [gps_receiver](https://github.com/dhruvilB01/gps_receiver) (Python) to receive and display the sensor stream on your laptop.
